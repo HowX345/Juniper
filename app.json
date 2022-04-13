@@ -22,12 +22,12 @@
   "env": {
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": "",
+      "value": "9204455",
       "required": true
     },
     "APP_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": "",
+      "value": "f01523c6eff27930fbabe0742dcadc84",
       "required": true
     },
     "MONGO_URI": {
@@ -64,7 +64,7 @@
     },
     "UPSTREAM_REPO_URL": {
       "description": "Only for fork users else don't change",
-      "value": "https://github.com/TeamDaisyX/DaisyX-v2.0",
+      "value": "https://github.com/HowX345/Juniper",
       "required": false  
     },
     "API_PORT": {
@@ -92,12 +92,12 @@
     },
     "OWNER_ID": {
       "description": "Your Id",
-      "value": "",
+      "value": "5178185894",
       "required": true
     },
     "OPERATORS": {
       "description": "Space seperated list of sudoes",
-      "value": "",
+      "value": "5178185894",
       "required": true
     },
     "SUPPORT_CHAT": {
@@ -132,7 +132,7 @@
     },
     "SW_API": {
       "description": "Spamwatch api @SpamWatchBot",
-      "value": "",
+      "value": "NcisSaZssbFPvO3SlJiOmKvAzN_i8SJp64hiaB3sBASyj49SX1tZjdkCHXkhIT1~",
       "required": true
     },
     "IBM_WATSON_CRED_URL": {
@@ -187,7 +187,7 @@
     },
     "STRING_SESSION": {
       "description": "run repl run And get your String Session",
-      "value": "",
+      "value": "BQAGasZMxWheD5JtyXEsJKcIW0HMtC6F_2B1GVkpJ2EchxELaVZid6Ujr2bxJvTOI0BlPiljAq_T3okP-TXc2QD7UZjw1eoKuaUsdqijF9sEBkpvbJ3ApNRFk5ZIAkY_H7StPp9zmVZZcwfi7OOpRUnuUlc7W_UUvfsk8iIV4y37BZFQtU0ynMey2N92kLB77BtJX4EUBfG8SdcHhueavpJcmsKvbWiJSX3uPEidAUQ3YCCsXLCKG3bHA9Np_wb76Ozm7lhl9dKdftivG5nQFVT7daQwKc7pOXVU56ef-94eShvGE7gMb1gsygShUjO_bErMIATdfHnOcPBl-IDsA6LDAAAAATSk2KYA",
       "required": true
     }
   }
