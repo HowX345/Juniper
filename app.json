@@ -102,17 +102,17 @@
     },
     "SUPPORT_CHAT": {
       "description": "support chat id",
-      "value": "",
+      "value": "-1001711920607",
       "required": true
     },
     "SUDO_USERS": {
       "description": "For gbans",
-      "value": "",
+      "value": "5178185894",
       "required": true
     },
     "DATABASE_URL": {
       "description": "get from elephantsql.com",
-      "value": "",
+      "value": "postgres://cblkpgkc:5vm4n1caZFFXtKBp15wq8VTTtOJBkOIC@heffalump.db.elephantsql.com/cblkpgkc",
       "required": true
     },
     "VIRUS_API_KEY": {
@@ -172,7 +172,7 @@
     },
     "LOGS_CHANNEL_ID": {
       "description": "Id of your log group/channel",
-      "value": "",
+      "value": "-1001631481154",
       "required": true
     },
     "ALLOW_FORWARDS_COMMANDS": {
