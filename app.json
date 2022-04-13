@@ -77,17 +77,17 @@
     },
     "REDIS_URI": {
       "description": "Get from redislabs.com",
-      "value": "",
+      "value": "redis-13798.c93.us-east-1-3.ec2.cloud.redislabs.com:13798",
       "required": true
     },
     "REDIS_PORT": {
       "description": "Get from redislabs.com",
-      "value": "",
+      "value": "13798",
       "required": true
     },
     "REDIS_PASS": {
       "description": "Get from redislabs.com",
-      "value": "",
+      "value": "l7JLzQLEKw2jn6M4WNNkuWOPhBSMTGCX",
       "required": true
     },
     "OWNER_ID": {
